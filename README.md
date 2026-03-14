@@ -19,4 +19,17 @@ pkg install python -y
 pkg install git -y
 
 
-git clone 
+
+
+git clone https://github.com/Darkboy-creater/Allhacking-.git
+
+
+cd allhacking
+
+
+ls
+
+pip install subprocess requests
+
+
+python allhacking.py
